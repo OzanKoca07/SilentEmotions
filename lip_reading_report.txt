@@ -1,0 +1,16 @@
+                precision    recall  f1-score   support
+
+   hosgeldiniz       0.92      0.77      0.84        57
+tesekkurederim       1.00      0.62      0.77        24
+         basla       0.84      0.82      0.83        97
+         bitir       0.74      0.91      0.81        95
+   ozurdilerim       0.93      0.80      0.86        49
+         selam       0.91      0.85      0.88       106
+ gorusmekuzere       0.87      0.94      0.90        93
+   afiyetolsun       0.89      0.96      0.92       138
+      gunaydin       0.84      0.76      0.80        63
+       merhaba       0.94      0.94      0.94        18
+
+      accuracy                           0.86       740
+     macro avg       0.89      0.84      0.86       740
+  weighted avg       0.87      0.86      0.86       740

@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+torch==2.2.2
+torchvision
+numpy
+opencv-python-headless
+scikit-learn
+matplotlib
+tqdm
+seaborn
